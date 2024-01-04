@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -34,6 +35,8 @@ build/
 .vscode/
 src/main/resources/application.properties
 =======
+=======
+>>>>>>> d8476cf5883401ca2a143cf8063914497c8005ac
 # Compiled class file
 *.class
 
@@ -59,9 +62,15 @@ src/main/resources/application.properties
 hs_err_pid*
 replay_pid*
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 6bd63c7 (Initial commit)
 =======
 
 
 *.properties
 >>>>>>> a2f1fae (Update .gitignore)
+=======
+
+*.properties
+
+>>>>>>> d8476cf5883401ca2a143cf8063914497c8005ac
